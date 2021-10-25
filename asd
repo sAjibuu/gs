@@ -1,1 +1,1 @@
-adasdadas
+Write-Host "test"
